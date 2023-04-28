@@ -6,5 +6,5 @@ import org.apache.commons.io.FileUtils
 def pipelineParams
 
 solidityPipeline {
-  slither = '0.8.9'
+  solgraph = 'latest'
 }
